@@ -2,7 +2,7 @@
 一ye知秋 的个人博客
 </h2>
 
-<h4 align="center">牛逼的技术虽然不是你的，但是你会了，就是你的</h4>
+<h4 align="center">说十遍不如做一次 Better do it once than say it ten times.</h4>
 <p align="center"><a title="一ye知秋 的个人博客" target="_blank" href="https://github.com/wanming001/solo-blog"><img src="https://img.shields.io/github/last-commit/wanming001/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/wanming001/solo-blog"><img src="https://img.shields.io/github/repo-size/wanming001/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://blog-admin.wanm-mall.com/my-github-repos)
-* [世界，你好！](https://blog-admin.wanm-mall.com/hello-solo)
+* [基于SpringCloudAlibaba微服务架构nacos整合分布式事务框架seata(原名fescar)](https://blog-admin.wanm-mall.com/articles/2019/11/22/1574427565376.html)
+* [【入门篇】Docker容器化技术](https://blog-admin.wanm-mall.com/articles/2019/11/22/1574427493789.html)
 
 
 
